@@ -1,4 +1,4 @@
-> [书籍完整目录](https://segmentfault.com/a/1190000005136764)
+> ~~[书籍完整目录@sf.gg](https://segmentfault.com/a/1190000005136764)~~ [@本仓库](/)
 
 # 1.1 React 介绍
 
@@ -167,8 +167,8 @@ Web 应用是 React 的出发点，我们可以通过 React 构建从简单的 T
 React 除了在 Web 和 Native 环境以外， 也可以通过 React 实现在服务器端渲染出 HTML。
 
 
-  [1]: /img/bVvJgS
-  [2]: /img/bVvJhV
-  [3]: /img/bVvJk2
-  [4]: /img/bVvJr6
-  [5]: /img/bVvJXr
+  [1]: /img/1/1-1.bVvJgS.png
+  [2]: /img/1/1-1.bVvJhV.png
+  [3]: /img/1/1-1.bVvJk2.png
+  [4]: /img/1/1-1.bVvJr6.png
+  [5]: /img/1/1-1.bVvJXr.png
