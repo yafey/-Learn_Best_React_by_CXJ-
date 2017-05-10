@@ -59,7 +59,7 @@ JSX 语法听上去很讨厌，但当真正使用的时候会发现，JSX 的写
 
 ### 方式四：clone Github hello-world 分支代码
 
-~~[https://github.com/leanklass/leanreact/tree/hello-world](https://github.com/leanklass/leanreact/tree/hello-world)~~
+~~[leanklass/leanreact by 陈学家](https://github.com/leanklass/leanreact/tree/hello-world)~~
 https://github.com/yafey/-Learn_Best_React_by_CXJ-/tree/hello-world 
 
 
@@ -352,7 +352,7 @@ var todolist = {
 
 ### 参考答案 
 
-~~[https://github.com/leanklass/leanreact/tree/jsx](https://github.com/leanklass/leanreact/tree/jsx)~~
+~~[leanklass/leanreact by 陈学家](https://github.com/leanklass/leanreact/tree/jsx)~~
 https://github.com/yafey/-Learn_Best_React_by_CXJ-/tree/jsx
 
   [1]: /img/1/1-2.bVvKLR.png
