@@ -355,5 +355,5 @@ var todolist = {
 ~~ https://github.com/leanklass/leanreact/tree/jsx ~~
 https://github.com/yafey/-Learn_Best_React_by_CXJ-/tree/jsx
 
-  [1]: /img/1-2.bVvKLR.png
-  [2]: /img/1-2.bVvLki.png
+  [1]: /img/1/1-2.bVvKLR.png
+  [2]: /img/1/1-2.bVvLki.png
