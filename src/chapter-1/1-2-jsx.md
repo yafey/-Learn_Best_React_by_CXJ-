@@ -19,7 +19,7 @@ JSX 语法听上去很讨厌，但当真正使用的时候会发现，JSX 的写
 
 ### 方式二：JSFiddle
  
-在线模式 [React Fiddle](https://jsfiddle.net/reactjs/69z2wepo/)  <script async src="//jsfiddle.net/reactjs/69z2wepo/embed/"></script>
+在线模式 [React Fiddle](https://jsfiddle.net/reactjs/69z2wepo/)  
 
 ### 方式三：本地开发
 
