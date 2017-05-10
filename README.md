@@ -10,13 +10,14 @@
 
 > 有 React 基础的读者可以跳过 1 - 3 章节 ， 后面的章节都是独立的，可以打乱顺序挑选阅读
 
-文章的样例代码都在放在 https://github.com/leanklass/leanreact/ 的不同分支上，可以直接 checkout 分支按照 README 的指示运行。
+文章的样例代码都在放在 ~~[leanklass/leanreact by 陈学家](https://github.com/leanklass/leanreact)~~
+ [本仓库链接](https://github.com/yafey/-Learn_Best_React_by_CXJ-) 的不同分支上，可以直接 checkout 分支按照 README 的指示运行。
 
 ### 第一章：React 入门
 
 本章会带领大家重 0 到 1 入门 React，会涉及到 React 背景和应用范围的介绍。 然后会介绍 React 的基础知识，包括 JSX 语法和 React 组件，Flux 模式介绍等。 
 
-- 1.1 [React 介绍](https://segmentfault.com/a/1190000005140569)
+- 1.1 ~~[React 介绍](https://segmentfault.com/a/1190000005140569)~~ [@本仓库](/src/chapter-1/1-1-about.md)
 - 1.2 [JSX 语法](https://segmentfault.com/a/1190000005145610)
 - 1.3 [React 组件](https://segmentfault.com/a/1190000005151182)
 - 1.4 [React 组件生命周期和方法](https://segmentfault.com/a/1190000005161417)
