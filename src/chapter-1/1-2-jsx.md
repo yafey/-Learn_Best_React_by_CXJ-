@@ -1,6 +1,7 @@
-> [书籍完整目录](https://segmentfault.com/a/1190000005136764)
+> ~~[书籍完整目录@sf.gg](https://segmentfault.com/a/1190000005136764)~~ [@本仓库](/README.md)
+
 # 1.2 JSX 语法
-![图片描述][1]
+![JSX 语法糖 图标][1]
 > 官方文档 https://facebook.github.io/react/docs/jsx-in-depth.html
 
 JSX 语法听上去很讨厌，但当真正使用的时候会发现，JSX 的写法在组件的组合和属性的传递上提供了非常灵活的解决方案。   
@@ -13,13 +14,13 @@ JSX 语法听上去很讨厌，但当真正使用的时候会发现，JSX 的写
 
 ### 方式一：Babel REPL
 
-**[Babel REPL](https://babeljs.io/repl/)**
+**[Babel REPL](https://babeljs.io/repl/)** https://babeljs.io/repl/
 
 直接在 REPL 中写 JSX 语法，可以实时的查看编译后的结果。
 
 ### 方式二：JSFiddle
  
-在线模式 [React Fiddle](https://jsfiddle.net/reactjs/69z2wepo/)
+在线模式 [React Fiddle](https://jsfiddle.net/reactjs/69z2wepo/)  https://jsfiddle.net/reactjs/69z2wepo/
 
 ### 方式三：本地开发
 
@@ -56,7 +57,9 @@ JSX 语法听上去很讨厌，但当真正使用的时候会发现，JSX 的写
 
 ### 方式四：clone Github hello-world 分支代码
 
-https://github.com/leanklass/leanreact/tree/hello-world 
+~~ https://github.com/leanklass/leanreact/tree/hello-world ~~
+https://github.com/yafey/-Learn_Best_React_by_CXJ-/tree/hello-world 
+
 
 ## 1.2.2 JSX 语法
 
@@ -109,7 +112,7 @@ function render() {
 
 ### JSX 组件
 
-JSX 组件分为 HTML 组件和 React 组件
+JSX 组件分为 HTML 组件 {YaFey注：**标签要小写**} 和 React 组件 {YaFey注：**标签首字母大写**}
 
 HTML 组件就是 HTML 中的原生标签， 如： 
 ```html
@@ -170,7 +173,7 @@ function render() {
   }
 ```
 
-需要注意的地方上，属性的写法上和 HTML 存在区别，在写 JSX 的时候，所有的属性都是驼峰式的写法，如：
+需要注意的地方上，属性的写法上和 HTML 存在区别，**在写 JSX 的时候，所有的属性都是驼峰式的写法**，如：
 
 ```html
 function render() {
@@ -189,12 +192,12 @@ function render() {
     </div>
 ```
 
-主要是出于标准的原因，驼峰式是 Javascript 的标准写法，并且 React 底层是将属性直接对应到原生 DOM 的属性，而原生 DOM 的属性是驼峰式的写法，这里也可以理解为什么类名不是 class 而是 className 了, 又因为 class 和 for 还是 js 关键字，所以 jsx 中:
+主要是出于标准的原因，驼峰式是 Javascript 的标准写法，并且 React 底层是将属性直接对应到原生 DOM 的属性，而原生 DOM 的属性是驼峰式的写法，**这里也可以理解为什么类名不是 class 而是 className 了, 又因为 class 和 for 还是 js 关键字**，所以 jsx 中:
 
 - **class => className**
 - **for   => htmlFor**
 
-除此之外比较特殊的地方是 `data-*` 和 `aria-*` 两类属性是和 HTML 一致的。
+**除此之外比较特殊的地方是 `data-*` 和 `aria-*` 两类属性是和 HTML 一致的**。
 
 ### JSX 花括号
 
@@ -245,7 +248,7 @@ function render() {
 
 ### 限制规则
 
-render 方法返回的组件必须是有且只有一个根组件，错误情况的例子
+**render 方法返回的组件必须是有且只有一个根组件**，错误情况的例子
 
 ```html
   // 无法编译通过，JSX 会提示编译错误
@@ -302,7 +305,7 @@ Hello World 程序转化为 JS 的代码如下：
 
 可以看出：
 
-<Hello .../>  <=> React.createElement(Hello,  ....) 
+`<Hello .../>  <=> React.createElement(Hello,  ....)`
 
 xml 的写法实际上是调用 React 的工厂方法 createElement。
 
@@ -310,13 +313,13 @@ xml 的写法实际上是调用 React 的工厂方法 createElement。
 
 ## 1.2.4 实例练习：通过数据渲染 TODOMVC 代办事项列表 
 
-[TODOMVC](http://todomvc.com) 以代办事项列表为需求模型，包含了各种框架的实现。 本例子的目的为了让读者能够切身的体会 JSX 的使用方法。
+[TODOMVC](http://todomvc.com) http://todomvc.com 以代办事项列表为需求模型，包含了各种框架的实现。 本例子的目的为了让读者能够切身的体会 JSX 的使用方法。
 
 ### 问题需求
 
-根据一个 JSON 对象，用 React JSX 的方式渲染出 [TODOMVC](http://todomvc.com/examples/react/#/) 页面:
+根据一个 JSON 对象，用 React JSX 的方式渲染出 [TODOMVC](http://todomvc.com/examples/react/#/) http://todomvc.com/examples/react/#/ 页面:
 
- ![图片描述][2]
+ ![TODOMVC 截图][2]
 
 JSON 对象如下：
 
@@ -347,7 +350,8 @@ var todolist = {
 
 ### 参考答案 
 
-https://github.com/leanklass/leanreact/tree/jsx 
+~~ https://github.com/leanklass/leanreact/tree/jsx ~~
+https://github.com/yafey/-Learn_Best_React_by_CXJ-/tree/jsx
 
   [1]: /img/bVvKLR
   [2]: /img/bVvLki

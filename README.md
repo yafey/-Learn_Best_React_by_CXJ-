@@ -17,12 +17,12 @@
 
 本章会带领大家重 0 到 1 入门 React，会涉及到 React 背景和应用范围的介绍。 然后会介绍 React 的基础知识，包括 JSX 语法和 React 组件，Flux 模式介绍等。 
 
-- 1.1 ~~[React 介绍](https://segmentfault.com/a/1190000005140569)~~ [@本仓库](/src/chapter-1/1-1-about.md)
-- 1.2 [JSX 语法](https://segmentfault.com/a/1190000005145610)
-- 1.3 [React 组件](https://segmentfault.com/a/1190000005151182)
-- 1.4 [React 组件生命周期和方法](https://segmentfault.com/a/1190000005161417)
-- 1.5 [React 与 DOM](https://segmentfault.com/a/1190000005182270)
-- 1.6 [Flux](https://segmentfault.com/a/1190000005348206)
+- 1.1 ~~[React 介绍](https://segmentfault.com/a/1190000005140569)~~     [@本仓库](/src/chapter-1/1-1-about.md)
+- 1.2 ~~[JSX 语法](https://segmentfault.com/a/1190000005145610)~~    [@本仓库](/src/chapter-1/1-2-jsx.md)
+- 1.3 ~~[React 组件](https://segmentfault.com/a/1190000005151182)~~    [@本仓库](/src/chapter-1/1-3-component.md)
+- 1.4 ~~[React 组件生命周期和方法](https://segmentfault.com/a/1190000005161417)~~    [@本仓库](/src/chapter-1/1-4-lifecycle.md)
+- 1.5 ~~[React 与 DOM](https://segmentfault.com/a/1190000005182270)~~    [@本仓库](/src/chapter-1/1-5-dom.md)
+- 1.6 ~~[Flux](https://segmentfault.com/a/1190000005348206)~~    [@本仓库](/src/chapter-1/1-6-flux.md)
 
 ### 第二章：React 工程化 
 
