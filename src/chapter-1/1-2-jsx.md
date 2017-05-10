@@ -20,7 +20,9 @@ JSX 语法听上去很讨厌，但当真正使用的时候会发现，JSX 的写
 
 ### 方式二：JSFiddle
  
+
 在线模式 [React Fiddle](https://jsfiddle.net/reactjs/69z2wepo/)  https://jsfiddle.net/reactjs/69z2wepo/
+
 
 ### 方式三：本地开发
 
@@ -353,5 +355,5 @@ var todolist = {
 ~~ https://github.com/leanklass/leanreact/tree/jsx ~~
 https://github.com/yafey/-Learn_Best_React_by_CXJ-/tree/jsx
 
-  [1]: /img/bVvKLR
-  [2]: /img/bVvLki
+  [1]: /img/1-2.bVvKLR.png
+  [2]: /img/1-2.bVvLki.png
