@@ -1,6 +1,7 @@
 # Lean React
 ---
- 
+![Alt text](/img/leanReact.png "Optional title")
+
 **目前本书正在撰写过程中，希望以 open source 的方式能得到更多读者的反馈**
 
 ## 本书内容
