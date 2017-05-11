@@ -308,5 +308,5 @@ eg:
 
 https://github.com/yafey/-Learn_Best_React_by_CXJ-/tree/component
 
-[1]: /img/1/1-3./bVvLOW.png
-[2]: /img/1/1-3./bVvL33.png
+[1]: /img/1/1-3.bVvLOW.png
+[2]: /img/1/1-3.bVvL33.png
