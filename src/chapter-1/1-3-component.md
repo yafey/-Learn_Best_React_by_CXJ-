@@ -1,7 +1,7 @@
-> [书籍完整目录](https://segmentfault.com/a/1190000005136764)
+> ~~[书籍完整目录@sf.gg](https://segmentfault.com/a/1190000005136764)~~ [@本仓库](/README.md)
 # 1.3 React 组件
 
-![图片描述][1]
+![React 组件][1]
 
 ## 1.3.1 React 组件介绍
 
@@ -94,7 +94,7 @@ eg:
 
 ## 1.3.4 组件状态 State
 
-![图片描述][2]
+![组件状态 State][2]
 
 React 中每个组件可以存储自己的当前状态， 以一个 switch 开关组件为例，开关的状态可以存储在组件内部。
 
@@ -302,7 +302,11 @@ eg:
 ```
 
 ### 参考答案 
-https://github.com/leanklass/leanreact/tree/component
 
-  [1]: /img/bVvLOW
-  [2]: /img/bVvL33
+
+~~[leanklass/leanreact by 陈学家](https://github.com/leanklass/leanreact/tree/component)~~
+
+https://github.com/yafey/-Learn_Best_React_by_CXJ-/tree/component
+
+[1]: /img/1/1-3./bVvLOW.png
+[2]: /img/1/1-3./bVvL33.png
