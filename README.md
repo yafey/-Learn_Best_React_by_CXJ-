@@ -1,8 +1,14 @@
 # Lean React
+
+fork from [leanklass/leanreact](https://github.com/leanklass/leanreact)
+
+原始的 master branch 为 本仓库的 branch_origin_master , 本branch 基于 sf.gg 上的 教程 更新了 链接 及 图片。 
+
+
 ---
 ![Alt text](/img/leanReact.png "Optional title")
 
-**目前本书正在撰写过程中，希望以 open source 的方式能得到更多读者的反馈**
+**目前本书正在撰写过程中，希望以   open source 的方式能得到更多读者的反馈**
 
 ## 本书内容
 
