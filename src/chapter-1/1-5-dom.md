@@ -68,7 +68,7 @@ var MyComponent = React.createClass({
 
 ### 绑定事件
 
-在 React 中绑定事件的方式很简单，只需要在元素中添加事件名称的属性已经对应的处理函数，如：
+在 React 中绑定事件的方式很简单，只需要在元素中添加事件名称的属性~~已经~~以及 对应的处理函数，如：
 
 ```html
 var MyComponent = React.creatClass({
@@ -312,7 +312,7 @@ var MyComponent = React.createClass({
 3. `selected` => **<opiton>**
 
 
-### textara
+### textarea
 
 在 HTML 中，textarea 的值是像如下定义的：
 
