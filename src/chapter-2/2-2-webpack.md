@@ -1,4 +1,4 @@
-> [书籍完整目录](https://segmentfault.com/a/1190000005136764)
+> ~~[书籍完整目录@sf.gg](https://segmentfault.com/a/1190000005136764)~~ [@本仓库](/README.md)
 # 2.2 webpack 
  
 ![图片描述][1]

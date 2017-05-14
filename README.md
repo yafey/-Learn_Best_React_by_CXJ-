@@ -34,21 +34,21 @@ fork from [leanklass/leanreact](https://github.com/leanklass/leanreact)
 
 前面一章我们已经熟悉了 React 的基础，能够掌握通过 JSX 和 React 的思维来完成业务应用，但是真正的前端项目构建不仅仅是业务代码本身，我们需要搭建一整套完整的前端开发流程，也就是前端工程化。在本章中将会讲解前端工程化相关的知识，并通过 gulp，webpack 等工具搭建出一套完整的 React 前端开发环境。
 
-- 2.1 [前端工程化概述](https://segmentfault.com/a/1190000005594760)
-- 2.2 [Webpack](https://segmentfault.com/a/1190000005612506)
-- 2.3 [Gulp](https://segmentfault.com/a/1190000005636680)
-- 2.4 [webpack + gulp 构建完整前端工作流](https://segmentfault.com/a/1190000005657651)
-- 2.5 [Webpack 进阶](https://segmentfault.com/a/1190000005666159)
+- 2.1 ~~[前端工程化概述](https://segmentfault.com/a/1190000005594760)~~  [@本仓库](/src/chapter-2/2-1-engineering.md)
+- 2.2 ~~[Webpack](https://segmentfault.com/a/1190000005612506)~~  [@本仓库](/src/chapter-2/2-2-webpack.md)
+- 2.3 ~~[Gulp](https://segmentfault.com/a/1190000005636680)~~  [@本仓库](/src/chapter-2/2-3-gulp.md)
+- 2.4 ~~[webpack + gulp 构建完整前端工作流](https://segmentfault.com/a/1190000005657651)~~  [@本仓库](/src/chapter-2/2-4-gulp-webpack.md)
+- 2.5 ~~[Webpack 进阶](https://segmentfault.com/a/1190000005666159)~~  [@本仓库](/src/chapter-2/2-5-advance-webpack.md)
 
 ### 第三章：React 与 Redux
 
 Redux 是目前 flux 模式最流行的实现，本章节会带领大家了解 Redux 的设计概念， 阅读 Redux 的源码，以及通过实例应用讲解 Redux + React 的开发模式。
 
-- 3.1 [redux 介绍](https://segmentfault.com/a/1190000005696767)
-- 3.2 [react-redux todoApp](https://segmentfault.com/a/1190000005758244)
-- 3.3 [理解 redux 中间件](https://segmentfault.com/a/1190000005766289)
-- 3.4 [掌控 redux 异步](https://segmentfault.com/a/1190000005773725)
-- 3.5 [compose redux sagas](https://segmentfault.com/a/1190000005776381)
+- 3.1 ~~[redux 介绍](https://segmentfault.com/a/1190000005696767)~~   [@本仓库](/src/chapter-3/3-1-redux.md)
+- 3.2 ~~[react-redux todoApp](https://segmentfault.com/a/1190000005758244)~~   [@本仓库](/src/chapter-3/3-2-redux-todolist.md)
+- 3.3 ~~[理解 redux 中间件](https://segmentfault.com/a/1190000005766289)~~   [@本仓库](/src/chapter-3/3-3-redux-middleware.md)
+- 3.4 ~~[掌控 redux 异步](https://segmentfault.com/a/1190000005773725)~~   [@本仓库](/src/chapter-3/3-4-redux-async.md)
+- 3.5 ~~[compose redux sagas](https://segmentfault.com/a/1190000005776381)~~   [@本仓库](/src/chapter-3/3-5-compose-redux-sagas.md)
 
 
 ### 第四章：React 进阶

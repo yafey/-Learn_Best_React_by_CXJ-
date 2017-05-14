@@ -1,4 +1,4 @@
-> [书籍完整目录](https://segmentfault.com/a/1190000005136764)
+> ~~[书籍完整目录@sf.gg](https://segmentfault.com/a/1190000005136764)~~ [@本仓库](/README.md)
 # 2.1 前端工程化概述
 
  ![图片描述][1]
@@ -205,4 +205,4 @@ Webpack 是支持 CommonJs 和 AMD 的模块编译工具，逐渐替代 Browseri
 2. Gulp 做工作流 
 
 
-  [1]: /img/bVxDHn
+  [1]: /img/2/2.1.bVxDHn.png
