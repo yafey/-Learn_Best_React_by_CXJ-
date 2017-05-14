@@ -23,7 +23,7 @@
 
 ### findDOMNode()
 
-通过 ReactDOM 提供的 findDOMNode 方法， 传入参数我组件实例，eg
+通过 ReactDOM 提供的 findDOMNode 方法， 传入参数为组件实例，eg
 
 ```html
 var MyComponent = React.createClass({
@@ -68,7 +68,7 @@ var MyComponent = React.createClass({
 
 ### 绑定事件
 
-在 React 中绑定事件的方式很简单，只需要在元素中添加事件名称的属性~~已经~~以及 对应的处理函数，如：
+在 React 中绑定事件的方式很简单，只需要在元素中添加事件名称的属性以及 对应的处理函数，如：
 
 ```html
 var MyComponent = React.creatClass({
@@ -106,7 +106,7 @@ number timeStamp
 string type
 ```
 
-和原生事件的区别在于，事件不能异步话，如：
+和原生事件的区别在于，事件不能异步化，如：
 
 ```javascript
 function onClick(event) {
@@ -307,9 +307,9 @@ var MyComponent = React.createClass({
 
 表单组件中能被用户修改的属性叫交互属性，包括：
 
-1. `value`    => **<input>** 和 **<select>** 组件
-2. `checked`  => **<input type="checkbox|radio">**
-3. `selected` => **<opiton>**
+1. `value`    => **`<input>`** 和 **`<select>`** 组件
+2. `checked`  => **`<input type="checkbox|radio">`**
+3. `selected` => **`<opiton>`**
 
 
 ### textarea
@@ -356,7 +356,7 @@ var MyComponent = function() {
 
 ### 受控组件
 
-在 React 中表单组件可分为两类，受控与非受控组件，受控组件是包含了 value 值的，如：
+在 React 中表单组件可分为两类，受控与非受控组件，**受控组件是包含了 value 值的**，如：
 
 ```html
 render: function() {
@@ -364,7 +364,7 @@ render: function() {
 }
 ```
 
-为什么叫受控组件？ 因为这个时候用户不能修改 input 的值， input 的值永远是 value 固定了的值。
+**为什么叫受控组件？ 因为这个时候用户不能修改 input 的值， input 的值永远是 value 固定了的值**。
 如果去掉 value 属性，那么就可以输入值了。
 
 那如何修改受控组件的值呢？ 如上面的例子中， 添加 onChange 事件，事件内修改 value 属性，value 属性的值会被设置到组件的 value 中。
