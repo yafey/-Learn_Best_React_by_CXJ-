@@ -1,14 +1,14 @@
-> [书籍完整目录](https://segmentfault.com/a/1190000005136764)
+> ~~[书籍完整目录@sf.gg](https://segmentfault.com/a/1190000005136764)~~ [@本仓库](/README.md)
 
 # 1.4 React 组件生命周期
-![图片描述][1]
+![生命周期][1]
 > [官方文档](http://facebook.github.io/react/docs/component-specs.html)
 
 ## 1.4.1 组件
 
 React 中组件有自己的生命周期方法，简单理解可以为组件从 **出生（实例化） ->  激活 -> 销毁** 生命周期 hook。通过这些 hook 方法可以自定义组件的特性。 除此之外，还可以设置一些额外的规格配置。
 
-![图片描述][2]
+![React 生命周期 方法][2]
 
 这些生命周期方法都可以在调用 **React.createClass** 的参数对象中传入， 我们已经使用过了一些方法：
 
@@ -18,7 +18,7 @@ React 中组件有自己的生命周期方法，简单理解可以为组件从 *
 - propTypes
   
  
-## 1.4.2 mixins 
+## 1.4.2 mixins （混入）
 
 **类型：** `array mixins`
 
@@ -108,7 +108,7 @@ var MyComponent = React.createClass({displayName: "MyComponent", });
 3. 组件状态被改变的时候
 4. 组件被销毁的时候
 
-![图片描述][3]
+![生命周期方法][3]
 
 ## 1.4.6 componentWillMount
 
@@ -208,7 +208,7 @@ void componentDidUpdate(
 
 我们知道 React 的核心模式是单向数据流，这不仅仅是对于组件级别的模式，在组件内部 的生命周期中也是应该符合单向数据的模式。数据从组件的属性流入，再结合组件的状态，流入生命周期方法，直到渲染结束这都应该是一个单向的过程，其间不能随意改变组件的状态。 
 
-![图片描述][4]
+![生命周期与单向数据流][4]
 
 
 ## 1.4.13 实例练习：通过 mixin 打印出组件生命周期的执行顺序
@@ -216,7 +216,7 @@ void componentDidUpdate(
 @todo 
 
 
-  [1]: /img/bVvOnw
-  [2]: /img/bVvOd6
-  [3]: /img/bVwhwG
-  [4]: /img/bVvOSu
+  [1]: /img/1/1-4.bVvOnw.png
+  [2]: /img/1/1-4.bVvOd6.png
+  [3]: /img/1/1-4.bVwhwG.png
+  [4]: /img/1/1-4.bVvOSu.png
