@@ -55,8 +55,8 @@ Redux 是目前 flux 模式最流行的实现，本章节会带领大家了解 R
 
 我们已经能基于 React 实现基本的交互逻辑，但是在使用 React 的过程中还是可能会有些不确定的地方或者一些特殊的功能不知道怎么实现，可能会问 React 中有没有一些 Best practices 或者 Good Pattern 可以参考的，本章会在各个维度介绍之前没有讲过的 React 特性。
 
-- 4.1 [react 代码规范](https://segmentfault.com/a/1190000005825618)
-- 4.2 [react patterns](https://segmentfault.com/a/1190000005838634)
+- 4.1 ~~[react 代码规范](https://segmentfault.com/a/1190000005825618)~~   [@本仓库](/src/chapter-4/4-1-react-rules.md)
+- 4.2 ~~[react patterns](https://segmentfault.com/a/1190000005838634)~~   [@本仓库](/src/chapter-4/4-2-react-patterns.md)
 - 4.3 react magics and tricks
 - 4.4 react 动画
 - 4.5 不可变数据与 React  
