@@ -1,7 +1,7 @@
 > [书籍完整目录](https://segmentfault.com/a/1190000005136764)
 # 1.5 React 与 DOM 
 
-![图片描述][1]
+![React 与 DOM][1]
 
 在这一节中，主要的讨论范围为 React 与 DOM 相关的处理，包括：
 
@@ -470,4 +470,4 @@ var divStyle = {
 
 @todo
 
-  [1]: /img/bVvUtM
+  [1]: /img/1/1-5.bVvUtM.png
