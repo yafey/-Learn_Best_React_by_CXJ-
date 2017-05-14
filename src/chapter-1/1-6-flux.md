@@ -1,4 +1,4 @@
-> [书籍完整目录](https://segmentfault.com/a/1190000005136764)
+> ~~[书籍完整目录@sf.gg](https://segmentfault.com/a/1190000005136764)~~ [@本仓库](/README.md)
 
 # 1.6 flux
 
@@ -216,11 +216,11 @@ function notPure(b, c) {
 @todo  
 
 
-  [1]: /img/bVwBD2
-  [2]: /img/bVwCjE
-  [3]: /img/bVwBoo
-  [4]: /img/bVwBZs
-  [5]: /img/bVwB0R
-  [6]: /img/bVwB3b
-  [7]: /img/bVwB3B
-  [8]: /img/bVwB3L
+  [1]: /img/1/1-6.1.bVwBD2.png
+  [2]: /img/1/1-6.2.bVwCjE.png
+  [3]: /img/1/1-6.3.bVwBoo.png
+  [4]: /img/1/1-6.4.bVwBZs.png
+  [5]: /img/1/1-6.5.bVwB0R.png
+  [6]: /img/1/1-6.6.bVwB3b.png
+  [7]: /img/1/1-6.7.bVwB3B2.png
+  [8]: /img/1/1-6.8.bVwB3L.png
