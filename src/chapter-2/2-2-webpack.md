@@ -440,7 +440,7 @@ index.js   700 kB       1  [emitted]  index
 > (Loaders 是应用中源码文件的编译转换器)
 
 
-![clipboard.png](/img/bVydVK)
+![clipboard.png][x]
 
 
 也就是说在 webpack 中，通过 loader 可以实现 JSX 、Es6、CoffeeScript 等的转换，
@@ -862,3 +862,4 @@ webpack-dev-server 还提供了其他的一些功能， 如：
   [3]: /img/2/2-2.3.bVxImy.png
   [4]: /img/2/2-2.4.bVxHxx.png
   [5]: /img/2/2-2.5.bVxIpd.png
+  [x]: /img/2/2-2.x.bVydVK.png
