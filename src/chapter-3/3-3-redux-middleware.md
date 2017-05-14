@@ -270,4 +270,4 @@ reduceRight 的执行过程：
 整个执行 action 的过程为 `A -> B -> C -> dispatch -> C -> B -> A` 
 
 
-  [1]: /img/bVymhZ
+[1]:/img/3/3-3.bVymhZ.png

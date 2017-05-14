@@ -3,7 +3,7 @@
 # 3.1 开始使用 redux 
 
 
-![clipboard.png](/img/bVx39E)
+![clipboard.png][1]
 
 
 前面我们介绍了 flux 架构以及其开源实现 redux，在这一节中，我们将完整的介绍 redux:
@@ -465,3 +465,6 @@ redux 收到 action 过后，调用根 reducer 并返回最新的状态数据。
 ```js
 component.setState(newState)
 ```
+
+
+[1]:/img/3/3-1.bVx39E.png

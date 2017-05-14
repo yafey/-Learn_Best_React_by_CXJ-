@@ -3,7 +3,7 @@
 # 3.5 compose redux sages
 
 
-![clipboard.png](/img/bVyoVa)
+![clipboard.png][1]
 
 
 基于 redux-thunk 的实现特性，可以做到基于 promise 和递归的组合编排，而 redux-saga 提供了更容易的更高级的组合编排方式（当然这一切要归功于 Generator 特性），这一节的主要内容为：
@@ -430,3 +430,5 @@ function* handleRequest(chan) {
 - http://yelouafi.github.io/redux-saga/docs/advanced/index.html
 - http://gajus.com/blog/2/the-definitive-guide-to-the-javascript-generators#understanding-the-execution-flow
 
+
+[1]:/img/3/3-5.bVyoVa.png

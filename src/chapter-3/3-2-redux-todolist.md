@@ -4,7 +4,7 @@
 
 
 
-![clipboard.png](/img/bVykcv)
+![clipboard.png][1]
 
 
 
@@ -448,3 +448,6 @@ const Footer = () => (
 
 export default Footer
 ```
+
+
+[1]:/img/3/3-2.bVykcv.png
