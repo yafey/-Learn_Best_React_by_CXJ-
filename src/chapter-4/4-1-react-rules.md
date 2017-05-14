@@ -1,4 +1,9 @@
+> ~~[书籍完整目录@sf.gg](https://segmentfault.com/a/1190000005136764)~~ [@本仓库](/README.md)
+
+
 # react 代码规范
+
+![Alt text][1]
 
 - 关于
 - 组件定义
@@ -154,3 +159,5 @@ render() {
 
 > 更多 react 代码规范可参考 https://github.com/airbnb/javascript/tree/master/react
 
+
+[1]:/img/4/4-1.4b1eebc067.jpg
