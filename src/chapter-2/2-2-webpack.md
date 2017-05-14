@@ -857,8 +857,8 @@ webpack-dev-server 还提供了其他的一些功能， 如：
 
 基于这些功能可以实现很多自定义的功能。
 
-  [1]: /img/bVxIfN
-  [2]: /img/bVxIk7
-  [3]: /img/bVxImy
-  [4]: /img/bVxHxx
-  [5]: /img/bVxIpd
+  [1]: /img/2/2-2.1.bVxIfN.png
+  [2]: /img/2/2-2.2.bVxIk7.png
+  [3]: /img/2/2-2.3.bVxImy.png
+  [4]: /img/2/2-2.4.bVxHxx.png
+  [5]: /img/2/2-2.5.bVxIpd.png

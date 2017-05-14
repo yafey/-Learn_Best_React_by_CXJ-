@@ -303,5 +303,5 @@ $ webpack [--params,...]
 ![图片描述][2]
 
 
-  [1]: /img/bVxWgk
-  [2]: /img/bVxWcV
+  [1]: /img/2/2-5.1.bVxWgk.png
+  [2]: /img/2/2-5.2.bVxWcV.png

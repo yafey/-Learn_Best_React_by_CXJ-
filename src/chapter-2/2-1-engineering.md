@@ -205,4 +205,4 @@ Webpack 是支持 CommonJs 和 AMD 的模块编译工具，逐渐替代 Browseri
 2. Gulp 做工作流 
 
 
-  [1]: /img/2/2.1.bVxDHn.png
+  [1]: /img/2/2-1.bVxDHn.png
